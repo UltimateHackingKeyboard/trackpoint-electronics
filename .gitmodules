@@ -1,0 +1,3 @@
+[submodule "libs/ugl"]
+	path = libs/ugl
+	url = git@bitbucket.org:mondalaci/ugl-kicad-lib.git
