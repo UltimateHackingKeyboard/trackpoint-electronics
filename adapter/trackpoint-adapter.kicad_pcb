@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 16)
+    (drawings 17)
     (tracks 0)
     (zones 0)
     (modules 5)
@@ -10,6 +10,12 @@
   )
 
   (page A3)
+  (title_block
+    (title "UHK Trackpoint Module - Adapter")
+    (rev 0.1.0)
+    (company "Ultimate Gadget Laboratories Kft.")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -160,6 +166,9 @@
       (clearance 0.00001))
   )
 
+  (gr_text "PCB ID: trackpoint_adapter_0.1.0" (at 206.1 141.4) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
   (gr_arc (start 199.893278 158.000006) (end 199.41032 158.12941) (angle -75.00591082) (layer Edge.Cuts) (width 0.01))
   (gr_arc (start 195 150.499993) (end 194.5 150.5) (angle -89.99010657) (layer Edge.Cuts) (width 0.01))
   (gr_arc (start 195 141.000007) (end 195 140.5) (angle -90.00451968) (layer Edge.Cuts) (width 0.01))
