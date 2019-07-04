@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ugl)(type KiCad)(uri /home/laci/projects/trackpoint-electronics/libs/ugl/modules)(options "")(descr ""))
+)
