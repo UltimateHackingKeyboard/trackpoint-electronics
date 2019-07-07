@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 15)
+    (drawings 19)
     (tracks 0)
     (zones 0)
     (modules 11)
@@ -313,6 +313,10 @@
       (clearance 0.00001))
   )
 
+  (gr_circle (center 210.760002 125.619003) (end 212.315637 125.619003) (layer Eco1.User) (width 0.01) (tstamp 5D21FFCB))
+  (gr_circle (center 210.760002 135.119003) (end 212.315637 135.119003) (layer Eco1.User) (width 0.01) (tstamp 5D21FFC9))
+  (gr_circle (center 201.260002 135.119003) (end 202.815637 135.119003) (layer Eco1.User) (width 0.01) (tstamp 5D21FFC7))
+  (gr_circle (center 201.260002 125.619003) (end 202.815637 125.619003) (layer Eco1.User) (width 0.01))
   (gr_line (start 204.5 112.5) (end 192.75 112.5) (angle 90) (layer Edge.Cuts) (width 0.01))
   (gr_line (start 192.25 113) (end 192.25 147) (angle 90) (layer Edge.Cuts) (width 0.01))
   (gr_line (start 219.75 123.5) (end 206 123.5) (angle 90) (layer Edge.Cuts) (width 0.01))
