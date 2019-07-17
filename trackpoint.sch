@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:trackpoint-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -502,7 +503,7 @@ U 1 1 5BCEC0CB
 P 1350 6450
 F 0 "P1" V 1300 6450 60  0000 C CNN
 F 1 "CONN_10" V 1400 6450 60  0000 C CNN
-F 2 "ugl:Tag_Connect_2x5_Header_With_No_Legs" H 1350 6250 60  0001 C CNN
+F 2 "ugl:Tag_Connect_2x5_Header_With_No_Legs_Parallel_Numbering" H 1350 6250 60  0001 C CNN
 F 3 "" H 1350 6250 60  0000 C CNN
 	1    1350 6450
 	-1   0    0    -1  
