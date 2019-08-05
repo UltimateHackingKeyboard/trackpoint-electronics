@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "UHK 60 Trackball module"
+Title "UHK Trackpoint Module"
 Date ""
 Rev "1.0.0"
 Comp "Ultimate Gadget Laboratories Kft."
