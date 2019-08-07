@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 26)
+    (drawings 28)
     (tracks 221)
     (zones 0)
     (modules 31)
@@ -64,7 +64,7 @@
     (pcb_text_width 0.3)
     (pcb_text_size 1.5 1.5)
     (mod_edge_width 0.15)
-    (mod_text_size 1 1)
+    (mod_text_size 0.75 0.75)
     (mod_text_width 0.15)
     (pad_size 1.5 1.5)
     (pad_drill 0.6)
@@ -277,7 +277,7 @@
       (net 9 /SWDCLK))
   )
 
-  (module ugl:QFN-24-1EP_4x4mm_Pitch0.5mm (layer F.Cu) (tedit 583F0F95) (tstamp 5D26FFA4)
+  (module ugl:QFN-24-1EP_4x4mm_Pitch0.5mm (layer F.Cu) (tedit 583F0F95) (tstamp 5D4A1BE7)
     (at 206 130.6 180)
     (descr "24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFN 0.5")
@@ -798,7 +798,7 @@
     (at 194.199997 118.468994 270)
     (descr "FFC connector")
     (path /5D276884)
-    (fp_text reference P3 (at 0 -7.700003 90) (layer F.SilkS)
+    (fp_text reference P3 (at 3.731006 -7.800003 90) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_text value CONN_8 (at 0 0.8 90) (layer F.SilkS) hide
@@ -975,6 +975,12 @@
       (clearance 0.00001))
   )
 
+  (gr_text BP167911-05340H0A (at 218.9 132.7 90) (layer F.SilkS) (tstamp 5D4A1D7D)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
+  (gr_text 84981-8 (at 202 116.7 90) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
   (gr_line (start 212.4 127.2) (end 212.5 127.3) (layer F.SilkS) (width 0.15))
   (gr_line (start 211.3 127.2) (end 212.4 127.2) (layer F.SilkS) (width 0.15))
   (gr_line (start 197.7 131.4) (end 197.7 128.4) (layer F.SilkS) (width 0.2))
