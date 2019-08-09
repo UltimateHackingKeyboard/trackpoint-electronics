@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 28)
+    (drawings 29)
     (tracks 221)
     (zones 0)
     (modules 32)
@@ -589,12 +589,12 @@
       (net 27 /KEY_MRIGHT))
   )
 
-  (module ugl:Tag_Connect_2x5_Header_With_No_Legs_Parallel_Numbering (layer F.Cu) (tedit 5D2DC950) (tstamp 5D2F24C9)
+  (module ugl:Tag_Connect_2x5_Header_With_No_Legs_Parallel_Numbering (layer F.Cu) (tedit 5D2DC950) (tstamp 5D4D99CD)
     (at 195.6 133.2 90)
     (tags "Tag-Connect TC2050")
     (path /5BCEC0CB)
     (attr virtual)
-    (fp_text reference P1 (at 0.1 -2.6 90) (layer F.SilkS)
+    (fp_text reference P1 (at 0 2.6 90) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_text value CONN_10 (at 0 2.6 90) (layer F.SilkS) hide
@@ -1331,6 +1331,9 @@
       (clearance 0.00001))
   )
 
+  (gr_text UPA14 (at 193 132.9 90) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
   (gr_text BP167911-05340H0A (at 218.9 132.7 90) (layer F.SilkS) (tstamp 5D4A1D7D)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
@@ -1550,7 +1553,7 @@
   (segment (start 196.85 127.7366) (end 198.0184 128.905) (width 0.508) (layer F.Cu) (net 12))
   (segment (start 197.993 134.3152) (end 198.0184 134.3406) (width 0.635) (layer F.Cu) (net 12))
   (segment (start 197.9906 131.93) (end 197.993 131.9276) (width 0.635) (layer F.Cu) (net 12))
-  (segment (start 197.993 131.9276) (end 197.993 134.3152) (width 0.635) (layer F.Cu) (net 12))
+  (segment (start 197.993 131.9276) (end 197.993 134.3152) (width 0.635) (layer F.Cu) (net 12) (tstamp 5D4D9AFF))
   (segment (start 197.993 134.4422) (end 197.993 134.3406) (width 0.635) (layer B.Cu) (net 12))
   (segment (start 204.3938 137.922) (end 201.4728 137.922) (width 0.635) (layer B.Cu) (net 12))
   (segment (start 201.4728 137.922) (end 197.993 134.4422) (width 0.635) (layer B.Cu) (net 12))
