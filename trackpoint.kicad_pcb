@@ -755,7 +755,7 @@
     (at 209.3 130.6 270)
     (path /5134D4EB)
     (attr smd)
-    (fp_text reference C4 (at 1.9 0 180) (layer F.SilkS)
+    (fp_text reference C4 (at 1.9 -0.2 180) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_text value 0.1uF (at -0.1 -1.1 270) (layer F.SilkS)
