@@ -321,6 +321,7 @@
 
   (module ugl:UHK_Logo_12x3.4_mm (layer B.Cu) (tedit 0) (tstamp 5D4B7BD7)
     (at 198.6 114.6 180)
+    (attr virtual)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -1278,7 +1279,6 @@
   (module ugl:UHK_Male_Pogo_Pin_v2 locked (layer F.Cu) (tedit 5D26F67D) (tstamp 5CEDB663)
     (at 219.75 132.800003)
     (path /5768A627)
-    (attr virtual)
     (fp_text reference P2 (at -1.15 -8.700003) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
