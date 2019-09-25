@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 59)
+    (drawings 60)
     (tracks 40)
     (zones 0)
     (modules 2)
@@ -132,6 +132,9 @@
       (clearance 0.00001))
   )
 
+  (gr_text "trackpoint_fpc\n1.0.0" (at 212.95 138.2) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
   (gr_text "Stiffener TOP" (at 223.05 145.85) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)))
   )
