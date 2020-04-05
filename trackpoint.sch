@@ -619,7 +619,7 @@ F 3 "" H 2100 6300 60  0001 C CNN
 	1    2100 6300
 	1    0    0    -1  
 $EndComp
-Text Label 6300 3550 0    50   ~ 0
+Text Label 6300 3550 0    40   ~ 0
 TP_RST
 NoConn ~ 5550 2500
 NoConn ~ 4700 3050
@@ -653,11 +653,11 @@ F 3 "" H 10100 3700 60  0000 C CNN
 	1    10100 3700
 	1    0    0    -1  
 $EndComp
-Text Label 9750 3850 2    50   ~ 0
+Text Label 9750 3850 2    40   ~ 0
 TP_RST
-Text Label 9750 3750 2    50   ~ 0
+Text Label 9750 3750 2    40   ~ 0
 CLK
-Text Label 9750 3650 2    50   ~ 0
+Text Label 9750 3650 2    40   ~ 0
 DATA
 NoConn ~ 9750 3350
 NoConn ~ 9750 3450
@@ -747,9 +747,9 @@ Wire Wire Line
 Connection ~ 9250 4050
 Wire Wire Line
 	9250 4050 9000 4050
-Text Label 5750 4100 3    50   ~ 0
+Text Label 5750 4100 3    40   ~ 0
 CLK
-Text Label 5650 4100 3    50   ~ 0
+Text Label 5650 4100 3    40   ~ 0
 DATA
 NoConn ~ 4700 3450
 NoConn ~ 4700 3550
