@@ -12,7 +12,7 @@
   (page A3)
   (title_block
     (title "UHK Trackpoint Module")
-    (rev 1.0.0)
+    (rev 1.1.0)
     (company "Ultimate Gadget Laboratories Kft.")
   )
 
@@ -1243,7 +1243,7 @@
   )
   (gr_line (start 212.4 127.2) (end 212.5 127.3) (layer F.SilkS) (width 0.15))
   (gr_line (start 211.3 127.2) (end 212.4 127.2) (layer F.SilkS) (width 0.15))
-  (gr_text "PCB ID: trackpoint_main_1.0.0" (at 206.1 146.5) (layer B.SilkS)
+  (gr_text "PCB ID: trackpoint_main_1.1.0" (at 206.1 146.5) (layer B.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
   (gr_circle (center 194.25 139.5) (end 196 139.5) (layer Eco1.User) (width 0.01))
