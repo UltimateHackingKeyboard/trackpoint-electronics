@@ -186,7 +186,7 @@
     (add_net "Net-(VR1-Pad4)")
   )
 
-  (module ugl:QFN-24-1EP_4x4mm_Pitch0.5mm (layer F.Cu) (tedit 583F0F95) (tstamp 5EDD7938)
+  (module UGL:QFN-24-1EP_4x4mm_Pitch0.5mm (layer F.Cu) (tedit 583F0F95) (tstamp 5EDD7938)
     (at 204.5 130.6 180)
     (descr "24-Lead Plastic Quad Flat, No Lead Package (MJ) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFN 0.5")
@@ -276,7 +276,7 @@
     )
   )
 
-  (module ugl:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
+  (module UGL:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
     (at 194.25 126.5)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -288,7 +288,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
+  (module UGL:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
     (at 213.75 139.5)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -300,7 +300,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
+  (module UGL:hole_2.8mm locked (layer F.Cu) (tedit 5EC1543E) (tstamp 5295D75B)
     (at 194.25 139.5)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -312,7 +312,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2.8) (layers *.Cu *.Mask))
   )
 
-  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5E93A70D) (tstamp 5D48CEF6)
+  (module UGL:CMI126603D08 locked (layer F.Cu) (tedit 5E93A70D) (tstamp 5D48CEF6)
     (at 212.660004 144.268997 180)
     (path /5CE56C4B)
     (fp_text reference SW2 (at -3.839996 3.468997) (layer F.SilkS)
@@ -336,7 +336,7 @@
       (net 36 /SW2))
   )
 
-  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5E93A70D) (tstamp 5CEDA412)
+  (module UGL:CMI126603D08 locked (layer F.Cu) (tedit 5E93A70D) (tstamp 5CEDA412)
     (at 199.360001 144.268997)
     (path /5CE50DFF)
     (fp_text reference SW1 (at 0.039999 -3.668997) (layer F.SilkS)
@@ -360,7 +360,7 @@
       (net 35 /SW1))
   )
 
-  (module ugl:SM0603_Diode (layer F.Cu) (tedit 5EDD6735) (tstamp 5EDD6B3E)
+  (module UGL:SM0603_Diode (layer F.Cu) (tedit 5EDD6735) (tstamp 5EDD6B3E)
     (at 206.5 126.2 90)
     (path /577F2A5A)
     (attr virtual)
@@ -382,7 +382,7 @@
     )
   )
 
-  (module ugl:Tag_Connect_2x5_Header_With_No_Legs_Parallel_Numbering (layer F.Cu) (tedit 5D557E77) (tstamp 5EDE9CE2)
+  (module UGL:Tag_Connect_2x5_Header_With_No_Legs_Parallel_Numbering (layer F.Cu) (tedit 5D557E77) (tstamp 5EDE9CE2)
     (at 194.3 133.1 90)
     (tags "Tag-Connect TC2050")
     (path /5BCEC0CB)
@@ -426,7 +426,7 @@
     (pad "" np_thru_hole circle (at 3.95 1.016 90) (size 0.98552 0.98552) (drill 0.98552) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
+  (module UGL:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
     (at 210.760002 135.119003)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -438,7 +438,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
+  (module UGL:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
     (at 210.760002 125.619003)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -450,7 +450,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
+  (module UGL:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
     (at 201.260002 135.119003)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -462,7 +462,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   )
 
-  (module ugl:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
+  (module UGL:hole_2.5mm locked (layer F.Cu) (tedit 5D557FD5) (tstamp 5295D75B)
     (at 201.260002 125.619003)
     (attr virtual)
     (fp_text reference "" (at 0 0) (layer F.SilkS)
@@ -474,7 +474,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu *.Mask))
   )
 
-  (module ugl:UHK_Logo_12x3.4_mm (layer B.Cu) (tedit 0) (tstamp 5D4B7BD7)
+  (module UGL:UHK_Logo_12x3.4_mm (layer B.Cu) (tedit 0) (tstamp 5D4B7BD7)
     (at 198.6 114.6 180)
     (attr virtual)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
@@ -831,7 +831,7 @@
       (xy 2.621935 -1.146433)) (layer B.Mask) (width 0.01))
   )
 
-  (module ugl:SC-74-TVS (layer F.Cu) (tedit 5C6C5882) (tstamp 5EDE8CDA)
+  (module UGL:SC-74-TVS (layer F.Cu) (tedit 5C6C5882) (tstamp 5EDE8CDA)
     (at 213.9 128.4 180)
     (path /576A5C90)
     (attr smd)
@@ -859,7 +859,7 @@
     (pad "" smd rect (at 0 -1.2 180) (size 0.6 1) (layers F.Cu F.Paste F.Mask))
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270D4D) (tstamp 5D2710DB)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270D4D) (tstamp 5D2710DB)
     (at 207.8 130.6 270)
     (path /5134D4EB)
     (attr smd)
@@ -882,7 +882,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270D7A) (tstamp 5EDE8EF8)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270D7A) (tstamp 5EDE8EF8)
     (at 213.9 125.5)
     (path /5768A632)
     (attr smd)
@@ -905,7 +905,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270E17) (tstamp 5EDE99A9)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270E17) (tstamp 5EDE99A9)
     (at 205.2 138.65 90)
     (path /577395C1)
     (attr smd)
@@ -928,7 +928,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5C6C58A5) (tstamp 5D48D397)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5C6C58A5) (tstamp 5D48D397)
     (at 212.3 132 270)
     (path /583C6AF0)
     (attr smd)
@@ -951,7 +951,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270E68) (tstamp 5D26FF2F)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270E68) (tstamp 5D26FF2F)
     (at 205.2 135.6 90)
     (path /5753AF22)
     (attr smd)
@@ -974,7 +974,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5EDD672E) (tstamp 5EDD6A67)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5EDD672E) (tstamp 5EDD6A67)
     (at 205 126.2 270)
     (path /577F1EDC)
     (attr virtual)
@@ -997,7 +997,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270DE1) (tstamp 5D270826)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270DE1) (tstamp 5D270826)
     (at 214.9 132 90)
     (path /5768A631)
     (attr smd)
@@ -1020,7 +1020,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270DF3) (tstamp 5EDE92A5)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270DF3) (tstamp 5EDE92A5)
     (at 213.6 132 90)
     (path /5768A63A)
     (attr smd)
@@ -1043,7 +1043,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270E2B) (tstamp 5D26FF07)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270E2B) (tstamp 5D26FF07)
     (at 210 139.7 270)
     (path /57597A6D)
     (attr smd)
@@ -1066,7 +1066,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270DC9) (tstamp 5EDE9064)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270DC9) (tstamp 5EDE9064)
     (at 214.3 136.2 180)
     (path /5768A633)
     (attr smd)
@@ -1089,7 +1089,7 @@
     )
   )
 
-  (module ugl:SM0603 (layer F.Cu) (tedit 5D270E40) (tstamp 5D272C4E)
+  (module UGL:SM0603 (layer F.Cu) (tedit 5D270E40) (tstamp 5D272C4E)
     (at 206.7 135.6 90)
     (path /5778146F)
     (attr smd)
@@ -1112,7 +1112,7 @@
     )
   )
 
-  (module ugl:SOT-23-5 (layer F.Cu) (tedit 5CACA08F) (tstamp 5D48D2B9)
+  (module UGL:SOT-23-5 (layer F.Cu) (tedit 5CACA08F) (tstamp 5D48D2B9)
     (at 207.6 139.2 180)
     (tags SOT23)
     (path /5CB4CDAE)
@@ -1144,7 +1144,7 @@
     )
   )
 
-  (module ugl:84981-8 locked (layer F.Cu) (tedit 5D270EB9) (tstamp 5D211DF6)
+  (module UGL:84981-8 locked (layer F.Cu) (tedit 5D270EB9) (tstamp 5D211DF6)
     (at 194.199997 118.468994 270)
     (descr "FFC connector")
     (path /5D276884)
@@ -1179,7 +1179,7 @@
       (net 21 /CLK))
   )
 
-  (module ugl:UHK_Male_Pogo_Pin_v2 locked (layer F.Cu) (tedit 5D26F67D) (tstamp 5CEDB663)
+  (module UGL:UHK_Male_Pogo_Pin_v2 locked (layer F.Cu) (tedit 5D26F67D) (tstamp 5CEDB663)
     (at 219.75 132.800003)
     (path /5768A627)
     (fp_text reference P2 (at -1.15 -8.700003) (layer F.SilkS)
