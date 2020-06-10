@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/laci/projects/trackpoint-electronics/trackpoint.sch)
+    (source /home/laci/projects/trackpoint-electronics/trackpoint-main.sch)
     (date "Mon 08 Jun 2020 22:26:53 CEST")
     (tool "Eeschema 5.1.6-c6e7f7d~86~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
@@ -9,7 +9,7 @@
         (company "Ultimate Gadget Laboratories Kft.")
         (rev 1.1.0)
         (date)
-        (source trackpoint.sch)
+        (source trackpoint-main.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
