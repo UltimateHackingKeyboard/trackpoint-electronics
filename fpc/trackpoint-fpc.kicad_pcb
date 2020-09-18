@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.4-e60b266~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.6-c6e7f7d~87~ubuntu20.04.1)
 
   (general
     (thickness 1.6)
@@ -66,7 +66,7 @@
     (visible_elements FFFFE77F)
     (pcbplotparams
       (layerselection 0x011e0_ffffffff)
-      (usegerberextensions true)
+      (usegerberextensions false)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
@@ -85,7 +85,7 @@
       (plotvalue true)
       (plotinvisibletext false)
       (padsonsilk false)
-      (subtractmaskfromsilk false)
+      (subtractmaskfromsilk true)
       (outputformat 1)
       (mirror false)
       (drillshape 0)
