@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name UGL)(type Legacy)(uri ${KIPRJMOD}/../libs/ugl/library/ugl.lib)(options "")(descr ""))
+)

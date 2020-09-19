@@ -1,4 +1,4 @@
-update=Fri 18 Sep 2020 22:07:30 CEST
+update=Sat 19 Sep 2020 07:45:23 CEST
 version=1
 last_client=pcbnew
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=trackpoint.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -58,7 +58,7 @@ OthersTextUpright=1
 SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
