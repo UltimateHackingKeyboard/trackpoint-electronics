@@ -27,29 +27,29 @@ $EndComp
 $Comp
 L UGL:CONN_8 P1
 U 1 1 5F653852
-P 4550 3300
-F 0 "P1" H 4417 2703 60  0000 C CNN
-F 1 "CONN_8" H 4417 2809 60  0000 C CNN
-F 2 "UGL:Trackpoint_FPC_8x1_pads" H 4550 3300 60  0001 C CNN
-F 3 "" H 4550 3300 60  0000 C CNN
-	1    4550 3300
+P 5450 3350
+F 0 "P1" H 5317 2753 60  0000 C CNN
+F 1 "CONN_8" H 5317 2859 60  0000 C CNN
+F 2 "UGL:Trackpoint_FPC_8x1_pads" H 5450 3350 60  0001 C CNN
+F 3 "" H 5450 3350 60  0000 C CNN
+	1    5450 3350
 	1    0    0    -1  
 $EndComp
-Text Label 4200 2950 2    40   ~ 0
+Text Label 5100 3000 2    40   ~ 0
 LBTN
-Text Label 4200 3050 2    40   ~ 0
+Text Label 5100 3100 2    40   ~ 0
 MBTN
-Text Label 4200 3150 2    40   ~ 0
+Text Label 5100 3200 2    40   ~ 0
 RBTN
-Text Label 4200 3250 2    40   ~ 0
+Text Label 5100 3300 2    40   ~ 0
 DATA
-Text Label 4200 3350 2    40   ~ 0
+Text Label 5100 3400 2    40   ~ 0
 CLK
-Text Label 4200 3450 2    40   ~ 0
+Text Label 5100 3500 2    40   ~ 0
 RESET
-Text Label 4200 3550 2    40   ~ 0
+Text Label 5100 3600 2    40   ~ 0
 GND
-Text Label 4200 3650 2    40   ~ 0
+Text Label 5100 3700 2    40   ~ 0
 VCC
 Text Label 5950 3550 2    40   ~ 0
 VCC
@@ -61,7 +61,31 @@ Text Label 5950 3250 2    40   ~ 0
 CLK
 Text Label 5950 3150 2    40   ~ 0
 DATA
-NoConn ~ 4200 2950
-NoConn ~ 4200 3050
-NoConn ~ 4200 3150
+$Comp
+L UGL:CONN_8 P3
+U 1 1 5F65EB1F
+P 4550 3350
+F 0 "P3" H 4417 2753 60  0000 C CNN
+F 1 "CONN_8" H 4417 2859 60  0000 C CNN
+F 2 "UGL:Trackpoint_FPC_8x1_pads" H 4550 3350 60  0001 C CNN
+F 3 "" H 4550 3350 60  0000 C CNN
+	1    4550 3350
+	1    0    0    -1  
+$EndComp
+Text Label 4200 3000 2    40   ~ 0
+LBTN
+Text Label 4200 3100 2    40   ~ 0
+MBTN
+Text Label 4200 3200 2    40   ~ 0
+RBTN
+Text Label 4200 3300 2    40   ~ 0
+DATA
+Text Label 4200 3400 2    40   ~ 0
+CLK
+Text Label 4200 3500 2    40   ~ 0
+RESET
+Text Label 4200 3600 2    40   ~ 0
+GND
+Text Label 4200 3700 2    40   ~ 0
+VCC
 $EndSCHEMATC
