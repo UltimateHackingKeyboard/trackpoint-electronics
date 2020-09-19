@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "UHK Trackpoint FPC"
 Date ""
-Rev ""
-Comp ""
+Rev "2.0.0"
+Comp "Ultimate Gadget Laboratories Kft."
 Comment1 ""
 Comment2 ""
 Comment3 ""
