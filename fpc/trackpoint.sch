@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "UHK Trackpoint FPC"
 Date ""
-Rev "2.1.0"
+Rev "2.2.0"
 Comp "Ultimate Gadget Laboratories Kft."
 Comment1 ""
 Comment2 ""
